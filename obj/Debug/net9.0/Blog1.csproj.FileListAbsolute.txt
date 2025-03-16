@@ -64,3 +64,4 @@ C:\Users\kesle\Balta.io\DataBase\Desafio\Blog1\obj\Debug\net9.0\refint\Blog1.dll
 C:\Users\kesle\Balta.io\DataBase\Desafio\Blog1\obj\Debug\net9.0\Blog1.pdb
 C:\Users\kesle\Balta.io\DataBase\Desafio\Blog1\obj\Debug\net9.0\Blog1.genruntimeconfig.cache
 C:\Users\kesle\Balta.io\DataBase\Desafio\Blog1\obj\Debug\net9.0\ref\Blog1.dll
+C:\Users\kesle\Balta.io\DataBase\Desafio\Blog1\obj\Debug\net9.0\Blog1.sourcelink.json
