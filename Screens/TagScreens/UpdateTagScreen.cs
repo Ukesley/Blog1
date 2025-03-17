@@ -33,8 +33,7 @@ namespace Blog.Screens.TagScreens
             try 
             {
                 var reposity = new Repository<Tag>(Database.Connection);
-                reposity.Update
-                (tag);
+                reposity.Update(tag);
                 Console.WriteLine("Tag atualizada com sucesso!!");
             }
             catch(Exception ex)
