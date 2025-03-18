@@ -1,9 +1,9 @@
-﻿using Blog;
+﻿using Blog.Screens.CategoryScreens;
 using Blog.Screens.TagScreens;
 using Blog.Screens.UserScreens;
 using Microsoft.Data.SqlClient;
 
-namespace Blog1
+namespace Blog
 {
     class Program
     {
@@ -41,6 +41,9 @@ namespace Blog1
             {
                 case 1:
                     MenuUserScreen.Load();
+                    break;
+                case 3:
+                    MenuCategoryScrenn.Load();
                     break;
                 case 4:
                     MenuTagScreen.Load();
